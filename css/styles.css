@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+  color: white;
+}
+h2{
+  text-align: center;
+  color: white;
+}
+h3{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+h4{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+h5{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+body{
+  background-color: black;
+}
+div.P1{
+  position: absolute;
+  color: white;
+}
+div.P2{
+  position:absolute;
+  right: 50px;
+  color: white;
+}
